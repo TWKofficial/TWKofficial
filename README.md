@@ -5,5 +5,5 @@
   <br>
   <p> p.s. this is NOT my official site, the actual one is on the button below.</p>
   <br>
-  <p><a href"https://twk-corporation.neocities.org/"><img src="https://twk-corporation.neocities.org/twk_button-1996.png"></a></p>
+  <a href"https://twk-corporation.neocities.org/"><img src="https://twk-corporation.neocities.org/twk_button-1996.png"></a>
 </html>
